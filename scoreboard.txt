@@ -1,0 +1,9 @@
+jack: 30
+Rock: 21
+katrin: 20
+Archi: 11
+torr: 10
+name: 8
+Donald: 8
+hero: 4
+Den: 0
